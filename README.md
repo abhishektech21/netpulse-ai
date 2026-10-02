@@ -1,28 +1,22 @@
-# 🌐 NetPulse AI
+<h1 align="center">NetPulse AI</h1>
 
-### AI-Powered Predictive Network Assurance, Root-Cause Analysis & Intelligent Troubleshooting
+<p align="center">
+  <strong>AI-Powered Predictive Network Assurance, Root-Cause Analysis & Intelligent Troubleshooting</strong>
+</p>
 
-```{=html}
 <p align="center">
-```
-`<strong>`{=html}Detect → Diagnose → Explain →
-Troubleshoot`</strong>`{=html}
-```{=html}
+  Detect → Diagnose → Explain → Troubleshoot
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python">`{=html}
-`<img src="https://img.shields.io/badge/ML-Isolation%20Forest-orange" alt="Machine Learning">`{=html}
-`<img src="https://img.shields.io/badge/RCA-Topology%20Aware-purple" alt="RCA">`{=html}
-`<img src="https://img.shields.io/badge/GenAI-Gemini-green" alt="Gemini">`{=html}
-`<img src="https://img.shields.io/badge/Dashboard-Streamlit-red?logo=streamlit" alt="Streamlit">`{=html}
-`<img src="https://img.shields.io/badge/Graph-NetworkX-blueviolet" alt="NetworkX">`{=html}
-`<img src="https://img.shields.io/badge/Status-Research%20Prototype-success" alt="Status">`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/ML-Isolation%20Forest-orange" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/RCA-Topology%20Aware-purple" alt="RCA">
+  <img src="https://img.shields.io/badge/GenAI-Gemini-blue" alt="Gemini">
+  <img src="https://img.shields.io/badge/Dashboard-Streamlit-red?logo=streamlit" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Network-NetworkX-teal" alt="NetworkX">
+  <img src="https://img.shields.io/badge/Status-Research%20Prototype-success" alt="Status">
 </p>
-```
 
 ------------------------------------------------------------------------
 
@@ -946,12 +940,3 @@ purposes.
 
 ------------------------------------------------------------------------
 
-```{=html}
-<p align="center">
-```
-`<strong>`{=html}🌐 NetPulse AI`</strong>`{=html}`<br>`{=html}
-Predictive Network Assurance • Topology-Aware RCA • Evidence-Grounded
-GenAI
-```{=html}
-</p>
-```
