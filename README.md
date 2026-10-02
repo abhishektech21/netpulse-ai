@@ -867,19 +867,6 @@ The project demonstrates practical skills in:
 
 ------------------------------------------------------------------------
 
-# 💬 Interview Explanation
-
-### 30-second version
-
-> **NetPulse AI is a network assurance prototype that detects anomalous
-> network telemetry, identifies likely root causes using network
-> topology and deterministic evidence rules, and uses a grounded Gemini
-> model to explain incidents and recommend troubleshooting steps. The
-> system simulates network telemetry, injects controlled incidents,
-> detects anomalies using Isolation Forest, performs topology-aware RCA
-> using NetworkX, and presents everything through a Streamlit
-> dashboard.**
-
 ### Key design decision
 
 > **"I intentionally separated anomaly detection, root-cause analysis,
